@@ -382,8 +382,8 @@
 /* Left/Right Judgement active task.*/
 "LEFT_RIGHT_JUDGEMENT_IMAGE_OPTION_ERROR" = "Image sets must be hands or feet";
 "LEFT_RIGHT_JUDGEMENT_TASK_TITLE" = "Left or Right?";
-"LEFT_RIGHT_JUDGEMENT_TASK_TITLE_HAND" = "Left or Right Hands?";
-"LEFT_RIGHT_JUDGEMENT_TASK_TITLE_FOOT" = "Left or Right Feet?";
+"LEFT_RIGHT_JUDGEMENT_TASK_TITLE_HAND" = "Left or Right Hand?";
+"LEFT_RIGHT_JUDGEMENT_TASK_TITLE_FOOT" = "Left or Right Foot?";
 "LEFT_RIGHT_JUDGEMENT_TASK_INTRO1_DETAIL_TEXT_HAND" = "Every time an image of a hand appears, select the side of the body to which it belongs (left or right). Use your thumbs to tap the buttons when making your selection.";
 "LEFT_RIGHT_JUDGEMENT_TASK_INTRO1_DETAIL_TEXT_FOOT" = "Every time an image of a foot appears, select the side of the body to which it belongs (left or right). Use your thumbs to tap the buttons when making your selection.";
 "LEFT_RIGHT_JUDGEMENT_TASK_INTRO1_DETAIL_TEXT_HAND_FIRST" = "Every time an image appears, select the side of the body to which it belongs (left or right). Use your thumbs to tap the buttons when making your selection. Images of hands will be presented first.";
