@@ -113,6 +113,7 @@
     _leftRightJudgementContentView = [ORKLeftRightJudgementContentView new];
     _leftRightJudgementContentView.translatesAutoresizingMaskIntoConstraints = NO;
     self.activeStepView.activeCustomView = _leftRightJudgementContentView;
+    _leftRightJudgementContentView.backgroundColor = UIColor.whiteColor; // images must be black on white background, even when in dark mode
         
     NSLayoutConstraint *center = [NSLayoutConstraint
                                   constraintWithItem:_leftRightJudgementContentView
